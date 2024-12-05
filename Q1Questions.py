@@ -6,7 +6,7 @@ a=(input(" Question a: "))
 b=(input(" Question b: "))
 c=(input(" Question c: "))
 d=(input(" Question d: "))
-
+#After doing question 2 this is probably unneccesary
 correctanswer=(input("Put in the right answer: "))
 if correctanswer!= ("a","b","c" or "d"):
     print("Your correct answer must be a,b,c or d (letter only)")
